@@ -2,7 +2,7 @@ package ru.easton.tm;
 
 import static ru.easton.tm.constant.TerminalConst.*;
 
-public class Main {
+public class App {
 
     public static void main(String[] args) {
         run(args);
