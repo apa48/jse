@@ -4,11 +4,13 @@
 
 # Требования к software
 
-JDK 11, Apach Maven.
+- JDK 11
+- Apach Maven.
 
 # Использованный стек технологий
 
-JDK, Maven.
+- JDK
+- Maven.
 
 # Сведения о разработчике
 
