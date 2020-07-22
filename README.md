@@ -27,3 +27,7 @@ Email: afanasov_pa@nlmk.com.
 Команда для запуска приложения из папки проекта:
 
     java -jar target\task-manager-1.0.0.jar
+
+# Проект на GitHub
+
+Посмотреть проект на GitHub можно по [ссылке](https://github.com/apa48/jse).
